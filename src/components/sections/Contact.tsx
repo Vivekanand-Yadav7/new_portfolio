@@ -2,7 +2,7 @@
 
 import { Section } from "@/components/ui/Section";
 import { Button } from "@/components/ui/Button";
-import { Github, Linkedin, Mail, ArrowUpRight, Phone } from "lucide-react";
+import { Mail, ArrowUpRight, Phone } from "lucide-react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 export function Contact() {
